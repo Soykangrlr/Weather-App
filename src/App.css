@@ -1,0 +1,18 @@
+.navContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+p.description {
+    height: 40px;
+}
+.itemCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+.card-body {
+    background-color: #a2aabd;
+}

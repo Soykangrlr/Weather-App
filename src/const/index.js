@@ -1,0 +1,40 @@
+export const API_URL='https://api.collectapi.com/weather/getWeather?data.lang=tr&data.city='
+export const API_TOKEN='apikey 3zmqOVyHBySRFhDGuqv3nE:52UMheT9vDNUVCV010I7Eq'
+export const CITY_DATA=[
+    {
+        title:"Adana",
+        value:"adana"
+    },
+    {
+        title:"Adıyaman",
+        value:"adıyaman"
+    },
+    {
+        title:"Afyon",
+        value:"afyon"
+    },    
+    {
+        title:"Ağrı",
+        value:"ağrı"
+    },
+    {
+        title:"Bursa",
+        value:"bursa"
+    },
+    {
+        title:"İstanbul",
+        value:"istanbul"
+    },
+    {
+        title:"İzmir",
+        value:"izmir"
+    },
+    {
+        title:"Ankara",
+        value:"Ankara"
+    },
+    {
+        title:"Eskişehir",
+        value:"eskişehir"
+    },
+]
